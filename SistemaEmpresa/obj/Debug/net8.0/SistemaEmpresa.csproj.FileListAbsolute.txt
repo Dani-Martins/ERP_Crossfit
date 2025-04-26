@@ -1,0 +1,7 @@
+D:\DOCUMENTOS\Desktop\Projeto I\Projeto_Profissional\SistemaEmpresa\obj\Debug\net8.0\SistemaEmpresa.csproj.AssemblyReference.cache
+D:\DOCUMENTOS\Desktop\Projeto I\Projeto_Profissional\SistemaEmpresa\obj\Debug\net8.0\SistemaEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCUMENTOS\Desktop\Projeto I\Projeto_Profissional\SistemaEmpresa\obj\Debug\net8.0\SistemaEmpresa.AssemblyInfoInputs.cache
+D:\DOCUMENTOS\Desktop\Projeto I\Projeto_Profissional\SistemaEmpresa\obj\Debug\net8.0\SistemaEmpresa.AssemblyInfo.cs
+D:\DOCUMENTOS\Desktop\Projeto I\Projeto_Profissional\SistemaEmpresa\obj\Debug\net8.0\SistemaEmpresa.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS\Desktop\Projeto I\Projeto_Profissional\SistemaEmpresa\obj\Debug\net8.0\SistemaEmpresa.MvcApplicationPartsAssemblyInfo.cs
+D:\DOCUMENTOS\Desktop\Projeto I\Projeto_Profissional\SistemaEmpresa\obj\Debug\net8.0\SistemaEmpresa.MvcApplicationPartsAssemblyInfo.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ERP_Crossfit\\SistemaEmpresa\\SistemaEmpresa.csproj": {}
+    "D:\\DOCUMENTOS\\Desktop\\Projeto I\\Projeto-de-Pr-tica-Profissional\\SistemaEmpresa\\SistemaEmpresa.csproj": {}
   },
   "projects": {
-    "D:\\ERP_Crossfit\\SistemaEmpresa\\SistemaEmpresa.csproj": {
+    "D:\\DOCUMENTOS\\Desktop\\Projeto I\\Projeto-de-Pr-tica-Profissional\\SistemaEmpresa\\SistemaEmpresa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ERP_Crossfit\\SistemaEmpresa\\SistemaEmpresa.csproj",
+        "projectUniqueName": "D:\\DOCUMENTOS\\Desktop\\Projeto I\\Projeto-de-Pr-tica-Profissional\\SistemaEmpresa\\SistemaEmpresa.csproj",
         "projectName": "SistemaEmpresa",
-        "projectPath": "D:\\ERP_Crossfit\\SistemaEmpresa\\SistemaEmpresa.csproj",
+        "projectPath": "D:\\DOCUMENTOS\\Desktop\\Projeto I\\Projeto-de-Pr-tica-Profissional\\SistemaEmpresa\\SistemaEmpresa.csproj",
         "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
-        "outputPath": "D:\\ERP_Crossfit\\SistemaEmpresa\\obj\\",
+        "outputPath": "D:\\DOCUMENTOS\\Desktop\\Projeto I\\Projeto-de-Pr-tica-Profissional\\SistemaEmpresa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

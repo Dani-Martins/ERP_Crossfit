@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QvFOtSwbQzs=",
+  "dgSpecHash": "civesRk+NsM=",
   "success": true,
-  "projectFilePath": "D:\\ERP_Crossfit\\SistemaEmpresa\\SistemaEmpresa.csproj",
+  "projectFilePath": "D:\\DOCUMENTOS\\Desktop\\Projeto I\\Projeto-de-Pr-tica-Profissional\\SistemaEmpresa\\SistemaEmpresa.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DANIEL\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\DANIEL\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
